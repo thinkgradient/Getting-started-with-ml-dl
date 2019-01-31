@@ -1,0 +1,5 @@
+4.	Install pytorch:
+a.	~/anaconda3/envs/pytorch/bin/pip install http://download.pytorch.org/whl/cu92/torch-0.4.1-cp36-cp36inux_x86_64.whl
+5.	Install torchvision:
+a.	~/anaconda3/envs/pytorch/bin/pip install torchvision
+
