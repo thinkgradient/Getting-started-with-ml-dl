@@ -1,5 +1,10 @@
-4.	Install pytorch:
-a.	~/anaconda3/envs/pytorch/bin/pip install http://download.pytorch.org/whl/cu92/torch-0.4.1-cp36-cp36inux_x86_64.whl
-5.	Install torchvision:
-a.	~/anaconda3/envs/pytorch/bin/pip install torchvision
+A pre-requisite for both steps below is that you need to install Anaconda first.
+
+Execute the below commands from Anaconda prompt if you're on Windows or from the Terminal if you're on Ubuntu/Mac
+Install pytorch:
+	1. conda install pytorch torchvision -c pytorch 
+
+Install keras:
+	1. conda install -c conda-forge keras 
+
 
